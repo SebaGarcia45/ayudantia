@@ -8,8 +8,7 @@ def Multiplicar(a, b):
     return a * b
 
 def dividir(a, b):
-    div=a/b
-    return div
+    return a / b
 
 def elevar(a, b):
     return a ** b
