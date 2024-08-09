@@ -9,3 +9,10 @@ def multiplicar(a, b):
 
 def dividir(a, b):
     return a / b
+
+def elevar(a, b):
+    return a ** b
+
+def raiz(a):
+    return a ** 0.5
+
