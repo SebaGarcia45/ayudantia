@@ -1,4 +1,4 @@
-def sumar(a, b):
+def sumarr(a, b):
     return a + b
 
 def multiplicaradtos(a, b):
